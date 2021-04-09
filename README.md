@@ -1,4 +1,4 @@
-### Hi there, I am BobHongYuChen 👋
+### Hi, I am BobHongYuChen 👋
 
 I am an ✨ OPPO Application Engineer ✨  of ColorOS & One of the programers of OPPO Relax App, EyeComfort, LogKit
 - 🔭 I’m currently working on ColorOS
